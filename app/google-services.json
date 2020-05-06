@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79781388719",
+    "firebase_url": "https://download-ed1a5.firebaseio.com",
+    "project_id": "download-ed1a5",
+    "storage_bucket": "download-ed1a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79781388719:android:a17e3feb15a2d0e777cf5a",
+        "android_client_info": {
+          "package_name": "com.example.download"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79781388719-915fd6gf4nnq0id3ch0t1qpj37imtuv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJJ1Wqx-f6gk_FdSmJvOocIjeu4WfSDNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79781388719-915fd6gf4nnq0id3ch0t1qpj37imtuv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
